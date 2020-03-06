@@ -4,9 +4,8 @@ const Kos = props => (
   <>
     <div className="cloud3">
       <h1>Grecja, Kos</h1>
-      <h2>W tydzień</h2>
+      <h2>W tydzień:)</h2>
     </div>
-
   </>
 );
 export default Kos; 
