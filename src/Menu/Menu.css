@@ -1,0 +1,16 @@
+
+.cloud {
+  height:100%;
+  background: rgba(255, 255, 255, 0.582);
+    float: right;
+  margin-top: 25%;
+  margin-right: 50px;
+  width: 25%;
+  height:  200px;
+  position: relative;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  z-index:200;
+  padding: 35px 35px 35px 35px;
+max-height: 300px;
+}
