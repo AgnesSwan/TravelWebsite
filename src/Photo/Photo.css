@@ -14,3 +14,24 @@
   padding: 35px 35px 35px 35px;
 
 }
+.zoomContainer {
+  border-radius:10px;
+}
+.zoomContainer img {
+
+  padding-left: 45px;
+
+  display:block;
+  margin:0 0 1em;
+  max-width:100%;
+  height:auto;
+  border-radius:5px;
+  transition:transform 0.5s;
+  float: left;
+}
+.zoomContainer img:hover {
+  transform:scale(1.7) ;
+}
+.enter {
+  clear: both;
+}
