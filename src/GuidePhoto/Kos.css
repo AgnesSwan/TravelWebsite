@@ -1,0 +1,82 @@
+.textTitle
+{
+
+}
+
+.Kos__card {
+  display:flex;
+  align-self: center;
+  flex-direction: column;
+justify-content: flex-end;
+  margin-top: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  height:100%;
+  background: rgba(255, 255, 255, 0.582);
+  width: 80%;
+  position: relative;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  z-index:200;
+  padding: 35px 35px 35px 35px;
+
+}
+
+.Kos__header {
+  display: flex;
+  flex-direction: column;
+}
+
+.Kos__title {
+  margin: 10px;
+  font-size:  50px;
+}
+
+.Kos__subtitle {
+  margin: 10px;
+  font-size: 10px;
+}
+
+.Kos__box {
+
+}
+.enter {
+  clear: both;
+}
+
+.box{
+  
+display: flex;
+float: left;
+align-self: center;
+margin-top: 30px;
+padding: 20px;
+width: 80%; 
+box-sizing: border-box;
+background: white;
+border-radius: 4px;
+border-color: black;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+.box .imgBox{
+  width:150px;
+flex: 0 0 150px;
+
+}
+.box .imgBox img{
+
+max-width: 100%;
+}
+.box .texCon{
+  padding-left: 20px;
+  
+
+}
+.box .texCon p{
+  margin:-100;
+  padding: 10px 0 0 ;
+  text-align: justify;
+}
