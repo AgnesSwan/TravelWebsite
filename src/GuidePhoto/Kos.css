@@ -7,7 +7,7 @@
   display:flex;
   align-self: center;
   flex-direction: column;
-justify-content: flex-end;
+  justify-content: flex-end;
   margin-top: 80px;
   margin-left: auto;
   margin-right: auto;
@@ -60,14 +60,15 @@ flex: 0 0 150px;
 
 max-width: 100%;
 }
-.box .texCon{
+.box .Kos__text{
   
-  padding-left: 10%;
+ margin-left: 30px;
   
 
 }
-.box .texCon p{
+.box .Kos__text .Kos__text__opis{
   
   padding-left: 10px ;
+  text-indent: 1.5em;
   text-align: justify;
 }
