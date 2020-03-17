@@ -1,0 +1,70 @@
+.Albania__card {
+  display:flex;
+  align-self: center;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin-top: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  height:100%;
+  background: rgba(255, 255, 255, 0.582);
+  width: 80%;
+  position: relative;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  z-index:200;
+  padding: 35px 35px 35px 35px;
+
+}
+
+.Albania__header {
+  display: flex;
+  flex-direction: column;
+}
+
+.Albania__title {
+  margin: 10px;
+  font-size:  50px;
+}
+
+.Albania__subtitle {
+  margin: 10px;
+  font-size: 30px;
+}
+
+.Albania__box {
+display: flex;
+align-self: center;
+margin-top: 30px;
+padding: 20px;
+width: 80%; 
+box-sizing: border-box;
+background: white;
+border-radius: 4px;
+border-color: black;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.Albania__box .imgAlbania__box{
+display: flex;
+width:300px;
+flex: 0 0 150px;
+}
+
+.Albania__box .imgAlbania__box img{
+
+max-width: 100%;
+max-height: 150px;
+}
+.box .Albania__text{
+  
+ margin-left: 30px;
+  
+
+}
+.box .Albania__text .Albania__text__opis{
+  
+  padding-left: 10px ;
+  text-indent: 1.5em;
+  text-align: justify;
+}

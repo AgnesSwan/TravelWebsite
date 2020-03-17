@@ -19,7 +19,7 @@ const GuidePhoto = props => (
       <img src={Albania}
         height="300" alt="Durres" />
       <div class="content">
-        <div class="text"><Link to='/AlbaniaPartI'>Albania, Dürres <br /> i okolice</Link></div>
+        <div class="text"><Link to='/Albania'>Albania, Dürres <br /> i okolice</Link></div>
       </div>
     </div>
     <div class="imageGuide">

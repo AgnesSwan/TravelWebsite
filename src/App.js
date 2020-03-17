@@ -5,6 +5,8 @@ import Guide from './Guide/Guide';
 import Photo from './Photo/Photo';
 import Menu from './Menu/Menu';
 import Kos from './GuidePhoto/Kos';
+import Albania from './GuidePhoto/Albania';
+import Mediolan from './GuidePhoto/Mediolan';
 
 class App extends Component {
 
@@ -18,8 +20,8 @@ class App extends Component {
           <Route exact path="/Guide" component={Guide} />
           <Route exact path="/Photo" component={Photo} />
           <Route exact path="/Kos" component={Kos} />
-          <Route exact path="/AlbaniaPartI" component={Kos} />
-          <Route exact path="/Mediolan" component={Kos} />
+          <Route exact path="/Albania" component={Albania} />
+          <Route exact path="/Mediolan" component={Mediolan} />
 
 
         </Switch>

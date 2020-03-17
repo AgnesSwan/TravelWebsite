@@ -1,8 +1,3 @@
-.textTitle
-{
-
-}
-
 .Kos__card {
   display:flex;
   align-self: center;
@@ -34,7 +29,7 @@
 
 .Kos__subtitle {
   margin: 10px;
-  font-size: 10px;
+  font-size: 30px;
 }
 
 .Kos__box {
@@ -58,7 +53,8 @@ flex: 0 0 150px;
 
 .Kos__box .imgKos__box img{
 
-max-width: 100%;
+max-width: 300px;
+max-height: 150px;
 }
 .box .Kos__text{
   
