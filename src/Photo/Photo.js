@@ -36,17 +36,13 @@ const Photo = (props) => (
       </div>
       <div class="zoomContainer">
         <img width='300' src={Kruja} alt="Kruja"></img>
-      </div>
-      <div class="zoomContainer">
         <img width='300' src={Tirana} alt="Tirana"></img>
-      </div>
-      <div className="enter"></div>
-      <div class="zoomContainer">
-        <img width='300' src={Durres} alt="Durres"></img>
       </div>
       <div class="zoomContainer">
         <img width='300' src={KosCity} alt="KosCity"></img>
+        <img width='300' src={Durres} alt="Durres"></img>
       </div>
+      <div className="enter"></div>
       <div class="zoomContainer">
         <img width='300' src={Zia} alt="Zie"></img>
       </div>

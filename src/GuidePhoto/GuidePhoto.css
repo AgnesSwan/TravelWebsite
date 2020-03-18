@@ -36,16 +36,9 @@
   padding-top: 70%;
     height:0;
   opacity:1;
-/*  transition-delay: 0s;
-  transition-duration: 0.4s;
-  */
+
   }
   .enter {
     clear: both;
   }
-  /* .imageGuide .content:hover .text {
-    opacity:1;
-    transform: translateY(250px);
-    -webkit-transform: translateY(250px);
-    }
-    */
+  
